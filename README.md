@@ -10,3 +10,7 @@ The goal is to improve data quality and perform basic exploratory data analysis 
 - Clean and standardize raw data using SQL queries
 - Identify and handle missing, duplicate, and NULL values
 - Perform exploratory data analysis to uncover basic patterns and summary statistics
+
+
+## Tools
+- MySQL
